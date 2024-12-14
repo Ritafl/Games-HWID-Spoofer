@@ -9,7 +9,7 @@ Custom Created Hardware ID Spoofer to Bypass Hardware or IP Bans
 
 ## How To Use
 
-* open GameSpoof.exe
+* open Client.exe
 * click 'Unban'
 * Enjoy
 
